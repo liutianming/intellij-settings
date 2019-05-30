@@ -1,0 +1,5 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/.IdeaIC2019.1/system/extResources/b36fadae_mybatis-3-mapper.dtd.xml" />
+  </component>
+</application>
