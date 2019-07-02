@@ -10,6 +10,10 @@
           <option name="url" value="http://git.dev.tencent.com" />
           <option name="userName" value="liutianming" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="liutianming" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
