@@ -9,6 +9,8 @@
 * Rainbow Brackets
 * String Manipulation
 * GsonFormat
+* Grep Console
+* Maven Helper
 
 #### Android Studio
 
