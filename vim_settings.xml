@@ -1,63 +1,11 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/district9/tdk/TDK-Server/src/main/resources/sql/UserMapper.xml" timestamp="1558074629398">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/district9/tdk/TDK-Server/src/main/java/com/baiusoft/tdk/service/IUserService.java" timestamp="1558074437367">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/district9/tdk/TDK-Server/src/main/java/com/baiusoft/tdk/service/impl/UserServiceImpl.java" timestamp="1558074442903">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
-      <file name="$USER_HOME$/district9/tdk/TDK-Server/src/main/java/com/baiusoft/tdk/dao/UserDao.java" timestamp="1558074617732" />
-      <file name="$USER_HOME$/district9/tdk/TDK-WEB/src/view/usermanager/userManager.vue" timestamp="1558074858327" />
-      <file name="$USER_HOME$/district9/tdk/TDK-Server/src/main/java/com/baiusoft/tdk/controller/UserController.java" timestamp="1558074633797" />
-    </filemarks>
-    <jumps />
-    <registers>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSW50ZWdlciBpc1VzZXJOYW1lRXhpc3QoU3RyaW5nIG5hbWUpIHsKICAgICAgICByZXR1cm4gdXNlckRhby5pc1VzZXJOYW1lRXhpc3QobmFtZSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgSW50ZWdlciBpc1VzZXJOYW1lRXhpc3QoU3RyaW5nIG5hbWUpIHsKICAgICAgICByZXR1cm4gdXNlckRhby5pc1VzZXJOYW1lRXhpc3QobmFtZSk7CiAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgaXNVc2VyTmFtZUV4aXN0KFN0cmluZyBuYW1lKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImlzVXNlck5hbWVFeGlzdCIKICAgICAgICAgICAgcGFyYW1ldGVyVHlwZT0iamF2YS5sYW5nLlN0cmluZyIKICAgICAgICAgICAgcmVzdWx0VHlwZT0iSW50ZWdlciI+CiAgICAgICAgU0VMRUNUCiAgICAgICAgICAgIGNvdW50KDApCiAgICAgICAgRlJPTQogICAgICAgICAgICBgdXNlcmAKICAgICAgICBXSEVSRQogICAgICAgICAgICBgbmFtZWAgPSAje25hbWUsamRiY1R5cGU9VkFSQ0hBUn0KICAgIDwvc2VsZWN0Pgo=</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
-    <search>
-      <last-dir>0</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search />
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="false" />
     <shortcut-conflicts />
+    <editor />
+    <notifications>
+      <idea-join enabled="false" />
+      <idea-put enabled="false" />
+    </notifications>
   </component>
 </application>
