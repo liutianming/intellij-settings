@@ -66,6 +66,8 @@
     <option name="QUERY_EL_LINE" value="101" />
     <option name="QUERY_IN_ONE_STRING" value="0" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="0" />
+    <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_INDENT_JOIN" value="false" />
   </MySQLCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
