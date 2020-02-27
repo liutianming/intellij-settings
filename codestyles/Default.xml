@@ -67,7 +67,12 @@
     <option name="QUERY_IN_ONE_STRING" value="0" />
     <option name="SELECT_KEEP_N_ITEMS_IN_LINE" value="0" />
     <option name="FROM_EL_LINE" value="1" />
+    <option name="FROM_EL_COMMA" value="2" />
     <option name="FROM_INDENT_JOIN" value="false" />
+    <option name="FROM_ONLY_JOIN_INDENT" value="1" />
+    <option name="WHERE_EL_LINE" value="101" />
+    <option name="WHERE_EL_WRAP" value="0" />
+    <option name="WHERE_EL_BOUND" value="0" />
   </MySQLCodeStyleSettings>
   <XML>
     <option name="XML_KEEP_LINE_BREAKS" value="false" />
@@ -80,7 +85,7 @@
   <codeStyleSettings language="MySQL">
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
     </indentOptions>
   </codeStyleSettings>
